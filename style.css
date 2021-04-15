@@ -1,0 +1,36 @@
+a{
+    text-decoration: none;
+
+}
+ul{
+    list-style: none;
+}
+li{
+    float:left;
+    margin-left: 20px;
+
+}
+.bake{
+    height: 300px;
+    margin:20px;
+    border:5px double cyan;
+    padding:5px;
+}
+.sports{
+    height:400px;
+    margin:30px;
+    border:10px ridge cornflowerblue;
+
+}
+div{
+    float:left;
+    height: 50PX;
+}
+iframe{
+    margin:50px;
+    border:cadetblue ridge;
+}
+
+
+
+
